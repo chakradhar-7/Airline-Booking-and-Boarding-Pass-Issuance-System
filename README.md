@@ -18,4 +18,4 @@ This website is similar to the process of web login before flight boarding. This
      
 ## ❗ Requirements:
   1. Xampp software
-  2. Visual studio codes or any other software that supports HTML, Php, CSS.
+  2. Visual studio codes or any other software that supports HTML, PHP, CSS.
